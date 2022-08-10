@@ -15,7 +15,7 @@ here will be two parts to this project.
     + A 1-2 sentence explanation of each slide
     + The SQL query is used to create the data used in the visualization.
     
-# The Chinook Database holds information about a music store. For this project, you will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
+## The Chinook Database holds information about a music store. For this project, you will be assisting the Chinook team with understanding the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
 
 ![163828660-bd913244-5060-426a-b0ca-a8818df24566](https://user-images.githubusercontent.com/101582700/183970673-669cbdc1-0c04-47a0-9a98-fe5549d49dbd.png)
 
